@@ -81,14 +81,14 @@ Following are the major dev-dependencies of the project:
 1. Create a file named ".env" inside the backend folder. Add database (if you use Mongodb atlas).
 
 2. Start the application
-
-   ```front-end```
+       
+   ````front-end``` -----
    npm run dev
    ```
-   ````back-end```
+   ````back-end```-----
    npm start
 
-3. Go to http://localhost:5173/
+4. Go to http://localhost:5173/
 
 ## Backend API
 
